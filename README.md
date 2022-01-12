@@ -2,7 +2,7 @@
 
 ## About
 
-This is an eCommerce that uses a GraphQL endpoint to display all the products. If you're intrested with running the project check the instructions below.
+This is an eCommerce that uses a GraphQL [endpoint](https://github.com/asemshaath/e-commerce-endpoint) to display all the products. If you're intrested with running the project check the instructions below.
 
 ## How to run at the very beginning?
 **Before you start the project make sure you the GraphQL endpoint**
