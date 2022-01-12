@@ -12,7 +12,7 @@ Clone the repo, then
 After a few seconds, 
 you must be able to see the application on  [http://localhost:3000](http://localhost:3000)
 
-(**Make sure you are running the endpoint**)
+(**Make sure you are running the [endpoint](https://github.com/asemshaath/e-commerce-endpoint)**)
 
 
 ## How to test?
